@@ -1,7 +1,5 @@
 # Mega Link Downloader Bot
-
 <br>
-
 ---
 
 ## Features 💫
@@ -291,6 +289,3 @@ Now send your "mega.ini" file to your bot and as a reply to it send the command 
 
 ---
 
-#### Buy Me a Coffee
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/xmysteriousx)
