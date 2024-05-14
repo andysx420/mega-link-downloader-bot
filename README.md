@@ -1,6 +1,5 @@
 # Mega Link Downloader Bot
 <br>
----
 
 ## Features 💫
  - Mega accounts are not needed!
