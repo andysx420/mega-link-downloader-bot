@@ -171,9 +171,10 @@ Now If you did everything correctly, the bot will be running successfully! 🥳
   <summary><b>Deploying Locally </b></summary>
 - Method 
   - Execute the below commands. 👇
-  ```sh  
-git clone https://github.com/XMYSTERlOUSX/mega-link-downloader-bot
+```sh
+git clone https://github.com/andysx420/mega-link-downloader-bot
 ```
+ 
 ```sh  
 apt install python3-pip
 ```
