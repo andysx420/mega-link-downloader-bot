@@ -167,6 +167,43 @@ python3 bot.py
 Now If you did everything correctly, the bot will be running successfully! 🥳
 </details>
 
+<details>
+  <summary><b>Deploying Locally </b></summary>
+- Method 
+  - Execute the below commands. 👇
+  ```sh  
+git clone https://github.com/XMYSTERlOUSX/mega-link-downloader-bot
+```
+```sh  
+apt install python3-pip
+```
+```sh  
+apt install ffmpeg
+```
+```sh  
+cd mega-link-downloader-bot
+```
+```sh  
+pip3 install -r requirements.txt
+```
+```sh  
+cp sample_config.py config.py
+```
+```sh  
+nano config.py
+```
+  - Now you will be inside the `config.py` file.
+  - Then edit the values in it with your values! (Inside your `config.py` file you will see the examples of how to edit the fields.)
+  - (For pasting letters, copy any value you want and take the curser to the place you want by arrow keys and right click the mouse! 😅)
+  - After editing all with appropriate values as mentioned in the config file press Ctrl + X from your keyboard.
+  - Then press y in your keyboard.
+  - Then execute the below command. 👇
+  
+```sh  
+python3 bot.py
+```
+</details>
+
 ---
 
 ## Variables
